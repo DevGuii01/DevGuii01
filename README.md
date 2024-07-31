@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil :blue_heart:
 
 > 👀 Estou interessado em **programação**
 
