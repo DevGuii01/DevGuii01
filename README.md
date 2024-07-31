@@ -4,7 +4,7 @@
 
 🌱 Atualmente estou aprendendo **HTML,CSS,JAVASCRIPT E LUA**
 
-⚡ Curiosidade: Sou programador a __**3 ANOS.**__
+⚡ Curiosidade: Sou programador a **3 ANOS.**
 
 ### Você pode entrar em contato comigo :mailbox:
 
