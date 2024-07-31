@@ -2,7 +2,7 @@
 
 > 👀 Estou interessado em **programação**
 
-> 🌱 Atualmente estou aprendendo **html,css,javascript e lua.**
+> 🌱 Atualmente estou aprendendo **HTML,CSS,JAVASCRIPT E LUA**
 
 > 📫 Como entrar em contato comigo 00001114389730SP@al.educacao.sp.gov.br
 
